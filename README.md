@@ -15,20 +15,16 @@ Indice:
 
 ## Documentación del diseño implementado
 
-### 1. Sumador/Restador
+#### 1. Descripción
 
-#### 1.1 Descripción
-
-#### 1.2 Diagramas
+#### 2. Diagramas
 
 
 ## Simulaciones 
 
-### 1. Simulación del sumador/restador
+#### 1. Descripción
 
-#### 1.1 Descripción
-
-#### 1.2 Diagrama
+#### 2. Diagrama
 
 
 ## Evidencias de implementación
